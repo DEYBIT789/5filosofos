@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\bin\Debug\net9.0\5filosofos.exe
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\bin\Debug\net9.0\5filosofos.deps.json
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\bin\Debug\net9.0\5filosofos.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\bin\Debug\net9.0\5filosofos.dll
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\bin\Debug\net9.0\5filosofos.pdb
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.sourcelink.json
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.dll
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\refint\5filosofos.dll
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.pdb
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\5filosofos.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Documentos\proyecto c#\5filosofos\obj\Debug\net9.0\ref\5filosofos.dll
